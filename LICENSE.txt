@@ -1,0 +1,57 @@
+AUTOPOSTER — PROPRIETARY SOFTWARE LICENSE
+Copyright (c) 2026 FridhausMusic. All rights reserved.
+
+IMPORTANT: READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
+
+1. GRANT OF LICENSE
+   Subject to the terms of this license, FridhausMusic ("the Author") grants you a
+   limited, non-exclusive, non-transferable, revocable license to install and use
+   the compiled AutoPoster software ("the Software") for your own personal or
+   internal business purposes.
+
+2. RESTRICTIONS
+   You may NOT:
+   a) modify, adapt, translate, or create derivative works based on the Software;
+   b) decompile, disassemble, reverse engineer, or otherwise attempt to derive the
+      source code of the Software, except to the extent permitted by applicable law;
+   c) redistribute, sublicense, rent, lease, lend, sell, publish, upload or make the
+      Software (or any part of it) available to any third party;
+   d) remove, alter, or obscure any copyright, trademark, or other proprietary
+      notice contained in the Software;
+   e) use the Software to provide a commercial hosting or resale service without a
+      separate written agreement with the Author;
+   f) use the Software for any unlawful purpose or in violation of the terms of
+      service of any social media platform.
+
+3. OWNERSHIP
+   The Software is licensed, not sold. All right, title and interest in and to the
+   Software, including all intellectual property rights, remain with the Author.
+
+4. THIRD-PARTY COMPONENTS
+   The Software includes open-source components (including Express, Multer and
+   dotenv) which are distributed under their respective licenses. Those licenses
+   continue to apply to those components.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. TERMINATION
+   This license terminates automatically if you breach any of its terms. Upon
+   termination you must cease all use of the Software and delete all copies.
+
+8. GOVERNING LAW
+   This license is governed by the laws of Malaysia, without regard to its conflict
+   of law provisions.
+
+For commercial licensing, white-labelling or redistribution permission, contact
+FridhausMusic:
+  Play Store : https://play.google.com/store/apps/dev?id=4925125647236016409
+  Website    : https://triavatech.store/
+  AI Studio  : https://triavatechstudio.ngrok.app/

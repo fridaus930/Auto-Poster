@@ -1,0 +1,8 @@
+AutoPoster.exe
+data/
+uploads/
+*.log
+.env
+sea-config.json
+sea-prep.blob
+*.zip

@@ -1,0 +1,16 @@
+{
+  "name": "autoposter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Auto-post gambar/video ke semua sosial media",
+  "author": "FridhausMusic",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
